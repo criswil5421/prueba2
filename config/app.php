@@ -52,13 +52,13 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost:4200/'),
+    'url' => env('APP_URL', 'https://pruebaangular21.herokuapp.com/'),
 
     // Auth urls
 
     'response-password-reset' => 'response-password-reset',
 
-    'appurl' => 'http://localhost:4200/',
+    'appurl' => 'https://pruebaangular21.herokuapp.com/',
 
 
     'asset_url' => env('ASSET_URL', null),
